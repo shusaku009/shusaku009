@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shusaku009)](https://github.com/shusaku009/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shusaku009&theme=dark)](https://github.com/shusaku009/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shusaku009&rank=-C,-B&theme=dracula)](https://github.com/shusaku009/github-profile-trophy)
 
