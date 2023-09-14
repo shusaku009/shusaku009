@@ -1,10 +1,21 @@
-## My Profile🌱
+## My Profile 🌱
 
-## GitHub Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shusaku009&theme=dark)](https://github.com/shusaku009/github-readme-stats)
 
 ## Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=shusaku009&rank=-C,-B&theme=dracula)](https://github.com/shusaku009/github-profile-trophy)
+
+## GitHub Status
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shusaku009&theme=dracula)
+
+<p>
+  <a href="https://github.com/miwashutaro0611">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=shusaku009&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/miwashutaro0611">
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusaku009&layout=compact&theme=dracula" />
+  </a>
+</p>
+
 
 <!--
 **shusaku009/shusaku009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
