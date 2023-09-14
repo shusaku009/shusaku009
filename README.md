@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shusaku009&repo=github-readme-stats)](https://github.com/shusaku009/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shusaku009&rank=-C,-B&theme=dracula)](https://github.com/shusaku009/github-profile-trophy)
 
 <!--
