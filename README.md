@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shusaku009)](https://github.com/shusaku009/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=shusaku009&rank=-C
 
 <!--
 **shusaku009/shusaku009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
