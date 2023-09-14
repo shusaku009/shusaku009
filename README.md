@@ -1,3 +1,16 @@
+## My Profile🌱
+
+## GitHub Status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shusaku009&theme=dark)](https://github.com/shusaku009/github-readme-stats)
+
+## Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=shusaku009&rank=-C,-B&theme=dracula)](https://github.com/shusaku009/github-profile-trophy)
+
+<!--
+**shusaku009/shusaku009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 <p align="left">
   <a href="https://github.com/shusaku009/shusaku009/">
     <img src="https://komarev.com/ghpvc/?username=shusaku009" alt="shusaku009" />
@@ -21,16 +34,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/shusaku009/contributions.svg" />
   </a>
 </p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shusaku009&theme=dark)](https://github.com/shusaku009/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shusaku009&rank=-C,-B&theme=dracula)](https://github.com/shusaku009/github-profile-trophy)
-
-<!--
-**shusaku009/shusaku009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
