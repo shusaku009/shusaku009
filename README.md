@@ -21,6 +21,12 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/shusaku009/contributions.svg" />
   </a>
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shusaku009&theme=dark)](https://github.com/shusaku009/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shusaku009&rank=-C,-B&theme=dracula)](https://github.com/shusaku009/github-profile-trophy)
+
 <!--
 **shusaku009/shusaku009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
