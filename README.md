@@ -1,10 +1,10 @@
-## My Profile 🌱
+## My Profile🌱
 
 
-## Github Trophy
+## Github Trophy🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=shusaku009&rank=-C,-B&theme=dracula)](https://github.com/shusaku009/github-profile-trophy)
 
-## GitHub Status
+## GitHub Status💪
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shusaku009&theme=dracula)
 
 <p>
