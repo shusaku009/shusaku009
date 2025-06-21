@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shusaku+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React+TypeScript+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shusaku+%F0%9F%91%8B;Frontend+Backend+Developer+%F0%9F%9A%80;TypeScript+Go+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -19,14 +19,16 @@
 <td width="200" align="center">
 <img src="https://skillicons.dev/icons?i=ts" width="100" height="100" alt="TypeScript" />
 <br><strong>TypeScript</strong>
+<img src="https://skillicons.dev/icons?i=go" width="100" height="100" margin="20" alt="Go" />  
+<br><strong>Go</strong>
 </td>
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm Shusaku!**
-🚀 **Frontend Developer** passionate about web development
+🚀 **Frontend & Backend Developer** passionate about web development
 
 🌍 **Location:** Japan 🇯🇵  
-💻 **Focus:** Frontend development & web design  
+💻 **Focus:** Frontend & Backend development
 ☕ **Powered by:** Coffee and curiosity  
 🎯 **Goal:** Crafting seamless user experiences
 
