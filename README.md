@@ -17,8 +17,8 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+<img src="https://skillicons.dev/icons?i=ts" width="100" height="100" alt="TypeScript" />
+<br><strong>TypeScript</strong>
 </td>
 <td width="400" align="left">
 
